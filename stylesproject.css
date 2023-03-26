@@ -1,0 +1,104 @@
+.main {
+  display: flex;
+  margin: 10% auto 10% auto;
+  width: 50%;
+  /* height: 50%; */
+  /* padding: 50px; */
+  background-color: white;
+  border-radius: 2 5px;
+  /* display: inline-block; */
+}
+
+.blue-box {
+  background-color: rgb(32, 32, 137);
+  width: 50%;
+  height: 50%;
+  border-radius: 8%;
+  /* position: absolute; */
+}
+
+.white-boxs {
+  background-color: white;
+  width: 50%;
+  /* height: 150%; */
+  /* position: relative; */
+  /* left: 371px; */
+  /* bottom: 160px; */
+  border-radius: 8%;
+}
+.template {
+  /* margin-top: 0px;
+  margin-bottom: 20px;
+  padding: 10%; */
+  text-align: center;
+  /* margin: 10px; */
+}
+.summary {
+  /* text-align: center; */
+  font-size: x-large;
+  padding: 5%;
+  margin-bottom: 25px;
+}
+.your-result {
+  text-align: center;
+  padding: 5%;
+  font-size: large;
+}
+.circle {
+  margin: auto;
+  height: 50px;
+  width: 50px;
+  background-color: rgb(11, 11, 106);
+  border-radius: 100%;
+  text-align: auto;
+  /* box-shadow: inset; */
+
+  padding: 15%;
+}
+.great {
+  text-align: center;
+  color: white;
+}
+p {
+  text-align: center;
+  color: white;
+}
+.r {
+  /* margin: 30px; */
+  background-color: rgb(248, 242, 242);
+  color: red;
+}
+.m {
+  /* margin: 30px; */
+  background-color: lightyellow;
+  color: purple;
+}
+.ve {
+  /* margin: 30px; */
+  background-color: rgb(230, 244, 230);
+  color: green;
+}
+.vi {
+  /* margin: 30px; */
+  background-color: rgb(226, 239, 243);
+  color: blue;
+}
+.button {
+  text-align: center;
+  background-color: rgb(8, 8, 129);
+  border-radius: 100px;
+  width: 230px;
+  height:42px;
+  line-height: 2;
+  color: white;
+  margin-top:20px;
+  margin-left:30px;
+}
+.para {
+  padding-bottom: 10%;
+}
+.si {
+  padding: 13px 70px;
+  margin: 8px 18px;
+  border-radius: 10px;
+}
